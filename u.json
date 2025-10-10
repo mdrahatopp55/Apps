@@ -1,32 +1,22 @@
 [
-  {
-    "id": "ab1309ac0b770758",
-    "username": "vcam",
-    "password": "apk",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": true
-  },
-
-  { 
-    "id": "973194dac77f1911",
-    "username": "admin",
-    "password": "admin",
-    "expiresAt": "2025-11-30",
-    "allowOffline": true
-  }
-  
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    
+    {
+         "device_id": "973194dac77f1911",
+        "key": "fuck",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
+        }
+    
 ]
