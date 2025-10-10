@@ -17,6 +17,14 @@
         "key": "fuck",
         "expirydate": "15-12-2025",
         "Allowoffline": true
+        },
+    
+    
+    {
+         "device_id": "973194dac77f1911",
+        "key": "kgoo",
+        "expirydate": "15-12-2025",
+        "Allowoffline": true
         }
     
 ]
